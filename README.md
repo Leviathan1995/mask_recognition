@@ -1,6 +1,6 @@
 # mask_recognition
 
-基于 tf.keras 的训练模型 MobileNetV2 搭建一个深度卷积神经网络进行人脸口罩检测识别, 准确率达 .
+基于 tf.keras 的训练模型 MobileNetV2 搭建一个深度卷积神经网络进行人脸口罩检测识别, 使用 1070Ti 训练 15 个 epoch 准确率达 96%.
 
 ## 环境
 
@@ -16,5 +16,6 @@
 
 ## 使用
 
- * `mask_recongnition_model`: 训练完成的模型
+ * `mask_recongnition_model`: 训练完成的模型, 可直接`load_model`调用
  * `mask_recognition.ipynb`: 模型训练代码
+ * `mask_recognition_demo.ipynb`: 使用测试图片验证模型
