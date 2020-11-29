@@ -14,7 +14,10 @@
 
 ## 效果
 
+### 佩戴口罩
 ![masked](https://github.com/Leviathan1995/mask_recognition/blob/master/images/masked.png?raw=true)
+
+### 未佩戴口罩
 ![unmasked](https://github.com/Leviathan1995/mask_recognition/blob/master/images/unmasked.png?raw=true)
 
 ## 使用
