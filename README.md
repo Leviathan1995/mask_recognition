@@ -14,6 +14,9 @@
 
 ## 效果
 
+![masked](https://github.com/Leviathan1995/mask_recognition/blob/master/images/masked.png?raw=true)
+![unmasked](https://github.com/Leviathan1995/mask_recognition/blob/master/images/unmasked.png?raw=true)
+
 ## 使用
 
  * `mask_recongnition_model`: 训练完成的模型, 可直接`load_model`调用
